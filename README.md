@@ -1,7 +1,7 @@
-<h1 align="center">
-   &lt;𝘞𝘩𝘢𝘵'𝘴 𝘶𝘱, 𝘐'𝘮 𝘋𝘢𝘮𝘪𝘢𝘯!/&gt; 
-<img src="https://media1.tenor.com/m/dhuQV_msfiUAAAAd/cat-gun.gif" width="35">
-</h1>
+<div align="center">
+  <img src="https://media1.tenor.com/m/dhuQV_msfiUAAAAd/cat-gun.gif" width="35" style="display: block;">
+  <h1>&lt;𝘞𝘩𝘢𝘵'𝘴 𝘶𝘱, 𝘐'𝘮 𝘋𝘢𝘮𝘪𝘢𝘯!/&gt;</h1>
+</div>
 
 <img alt="Night Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9vZWVka2F5MjBxNnFkdWI2b3YzNG1qNHZrZG1yeTR0emtuemR2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ok3G3hQ0LRQsi7cXTl/giphy.gif" width="300" align="right"/>
 
