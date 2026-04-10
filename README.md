@@ -1,10 +1,16 @@
-# What's up, I'm Damián!
+# What's up, I'm Damián! <img src="https://media1.tenor.com/m/dhuQV_msfiUAAAAd/cat-gun.gif" width="35">
+
+<img alt="Night Coding" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="100" align="right"/>
 
 Computer Systems Engineer and passionate about programming
 
- 
+Currently learning Web Development by Self
 
-## 💻 Tech Stack:
+Portfolio [here](google.com)
+
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=flat&logo=css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
 
