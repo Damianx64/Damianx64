@@ -6,19 +6,19 @@
 <img alt="Night Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9vZWVka2F5MjBxNnFkdWI2b3YzNG1qNHZrZG1yeTR0emtuemR2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ok3G3hQ0LRQsi7cXTl/giphy.gif" width="300" align="right"/>
 
 
-- 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 
-- 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚒𝚗𝚐 𝚋𝚢 𝚜𝚎𝚕𝚏 𝚒𝚗 *𝙵𝚞𝚕𝚕𝚜𝚝𝚊𝚌𝚔 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝*
-- 𝙰𝚕𝚠𝚊𝚢𝚜 𝚎𝚊𝚐𝚎𝚛 𝚝𝚘 *𝚔𝚎𝚎𝚙 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐*
-- 𝙿𝚘𝚛𝚏𝚘𝚕𝚒𝚘 [here](google.com)
-- 𝙴𝚖𝚊𝚒𝚕 𝚖𝚎 𝚊𝚝: [aceves.x64@gmail.com](mailto:aceves.x64@gmail.com)
-- *𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚒𝚜 𝚝𝚑𝚎 𝚊𝚛𝚝 𝚘𝚏 𝚝𝚊𝚕𝚔𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛𝚜*
-
+- 🎓 **𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛** 
+- 💻 𝚂𝚎𝚕𝚏-𝚝𝚊𝚞𝚐𝚑𝚝 𝚒𝚗 *𝙵𝚞𝚕𝚕𝚜𝚝𝚊𝚌𝚔 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝* 
+- 🧠 𝙰𝚕𝚠𝚊𝚢𝚜 𝚎𝚊𝚐𝚎𝚛 𝚝𝚘 *𝚔𝚎𝚎𝚙 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐*
+- 🔗 **𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘:** [here](google.com)
+- ✉️ **𝙴𝚖𝚊𝚒𝚕 𝚖𝚎 𝚊𝚝:** [aceves.x64@gmail.com](mailto:aceves.x64@gmail.com)
+- ⚙️ *𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚒𝚜 𝚝𝚑𝚎 𝚊𝚛𝚝 𝚘𝚏 𝚝𝚊𝚕𝚔𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛𝚜*
 
 
 
 <h2>
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> 𝘚𝘬𝘪𝘭𝘭𝘴</b>  
 </h2>
+
 
 - 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
 
@@ -33,7 +33,7 @@
 
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=flat&logo=astro&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
 
-- 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜 𝚃𝚘𝚘𝚕𝚜 
+- 𝚃𝚘𝚘𝚕𝚜 
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37)
 
